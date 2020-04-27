@@ -8,7 +8,7 @@ Tembak Kuota Three
 - Buka termux masukan command "pkg install php php-curl git && git clone https://github.com/im-hanzou/Dor3.git && cd Dor3 && php dor.php" (tanpa tanda petik)
 
 # Penggunaaan
-Masukkan No Telepon : 089xxx (lalu akan mendapatkan kode OTP)
-Masukkan OTP : 123xxx (kode OTP dari sms)
+- Masukkan No Telepon : 089xxx (lalu akan mendapatkan kode OTP)
+- Masukkan OTP : 123xxx (kode OTP dari sms)
 
-NB : Jangan Maruk!
+NB : JANGAN MARUK!  RESIOKO DITANGGUNG PENGGUNA!
