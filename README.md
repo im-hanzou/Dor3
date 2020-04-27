@@ -1,7 +1,8 @@
 # Dor3
 Tembak Kuota Three
+- Cek poin bonstri di my.tri.co.id
 - Syarat harus memiliki poin bonstri minimal 150 poin
-- Redeem voucher di bonstri.tri.co.id
+- Redeem voucher kuota 1gb,2gb atau 3gb (secukupnya poinmu) di bonstri.tri.co.id
 
 # Instalasi (termux)
 - $ pkg install php php-curl git && git clone https://github.com/im-hanzou/Dor3.git && cd Dor3 && php dor.php
