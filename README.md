@@ -4,7 +4,7 @@ Tembak Kuota Three
 - Redeem voucher di bonstri.tri.co.id
 
 # Instalasi (termux)
-$ pkg install php git && git clone https://github.com/im-hanzou/Dor3.git
+$ pkg install php php-curl git && git clone https://github.com/im-hanzou/Dor3.git
 $ cd Dor3 && php dor.php
 
 # Penggunaaan
